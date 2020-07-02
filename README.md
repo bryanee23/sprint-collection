@@ -13,7 +13,7 @@ Sprints were designed to learn various fundamental concepts within Software Engi
 - Learning Objectives: How server side code interacts with the client through asynchronous behaviors via keyboard events by constructing both the client and server systems
 - Tech Stack: NodeJS, Live-Server
 
----
+<hr>
 <a href="https://opencv.org/">beesbeesbees</a>
 <br>
 - Learning Objectives: How server side code interacts with the client through asynchronous behaviors via keyboard events by constructing both the client and server systems
