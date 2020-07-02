@@ -11,6 +11,10 @@ Sprints were designed to learn various fundamental concepts within Software Engi
 <a href="https://opencv.org/">a-synchronous-swim</a>
 <br>
 - Learning Objectives: How server side code interacts with the client through asynchronous behaviors via keyboard events by constructing both the client and server systems
-<br>
 - Tech Stack: NodeJS, Live-Server
 
+---
+<a href="https://opencv.org/">beesbeesbees</a>
+<br>
+- Learning Objectives: How server side code interacts with the client through asynchronous behaviors via keyboard events by constructing both the client and server systems
+- Tech Stack: NodeJS, Live-Server
