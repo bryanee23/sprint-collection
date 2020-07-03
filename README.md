@@ -10,11 +10,11 @@ Sprints were designed to learn various fundamental concepts within Software Engi
 ## Sprints:
 
 
-<a href="https://github.com/bryanee23/sprint-collection/tree/master/a-synchronous-swim">a-synchronous-swim</a>
- Learning Objectives: Create server-side code to interact with the client through asynchronous behaviors via keyboard events by constructing both the client and server systems
- Tech Stack: NodeJS, Live-Server
+##<a href="https://github.com/bryanee23/sprint-collection/tree/master/a-synchronous-swim">a-synchronous-swim</a>
+- Learning Objectives: Create server-side code to interact with the client through asynchronous behaviors via keyboard events by constructing both the client and server systems
+-Tech Stack: NodeJS, Live-Server
 
-1. <a href="https://github.com/bryanee23/sprint-collection/tree/master/beesbeesbees">beesbeesbees</a>
+## <a href="https://github.com/bryanee23/sprint-collection/tree/master/beesbeesbees">beesbeesbees</a>
 - Learning Objectives: pseudo classical instantiation
 - Tech Stack: JS
 
