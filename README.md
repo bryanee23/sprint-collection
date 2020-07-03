@@ -17,10 +17,11 @@ Sprints were designed to learn various fundamental concepts within Software Engi
 - Learning Objectives: pseudo classical instantiation
 - Tech Stack: JS
 
+---
 <br>
 <a href="https://github.com/bryanee23/sprint-collection/tree/masterchatterbox-client">chatterbox-client</a>
 <br>
-- Learning Objectives: design a client-side application on a local server while learning the concept of CORS
+-- Learning Objectives: design a client-side application on a local server while learning the concept of CORS
 - Tech Stack: JS, NodeJs, AJAX request, CORS, jQuery
 
 <br>
