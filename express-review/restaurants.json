@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "restaurant_name": "Howlin Rays",
+    "rating": 5
+  },
+  {
+    "id": 1,
+    "restaurant_name": "Mariscos Jalisco",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "restaurant_name": "Hummus Factory",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "restaurant_name": "Joy",
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "restaurant_name": "Rustic Canyon",
+    "rating": 5
+  }
+]

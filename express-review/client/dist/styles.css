@@ -1,0 +1,70 @@
+body {
+  font-family: 'Gill Sans', sans-serif
+}
+
+.body {
+  display:flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background: #71a1bd;
+  padding: 10px;
+  margin: 10%;
+  color: black;
+}
+
+.heading {
+  font-size: 40px;
+  align-self: center;
+  color:white;
+  border-bottom: 1px solid #4d6e81;
+  font-weight: bold;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: 20px;
+}
+
+.entry {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  border-bottom: 1px solid #4d6e81;
+}
+
+.formTitle {
+  font-size: 25px;
+  color: #fff8f8;
+  border-bottom: 1px solid #4d6e81;
+}
+
+.fields {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+}
+
+.error {
+  font-size: 50px;
+  align-self: center;
+  margin: 10px;
+  color: red
+}
+
+.delete {
+  font-size: 18px;
+  color: #4d6e81;
+  transition: color 0.4s ease;
+  cursor: pointer;
+}
+
+.delete:hover{
+  color: white;
+}

@@ -1,0 +1,37 @@
+{
+  "name": "express-review",
+  "version": "1.0.0",
+  "description": "educational repo for practicing building a barebones express server",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "nodemon",
+    "build": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikgrubbs/express-review.git"
+  },
+  "author": "Erik Grubbs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikgrubbs/express-review/issues"
+  },
+  "homepage": "https://github.com/erikgrubbs/express-review#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "nodemon": "^1.19.2",
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9"
+  }
+}

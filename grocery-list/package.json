@@ -1,0 +1,28 @@
+{
+  "name": "hackreactor-groceries",
+  "version": "1.0.0",
+  "description": "grocery-ing list",
+  "main": "server/index.js",
+  "scripts": {
+    "react-dev": "webpack -d --watch",
+    "start": "nodemon server/index.js"
+  },
+  "author": "Bryan Evangelista",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.23.0",
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.7.0",
+    "nodemon": "^1.19.2"
+  }
+}
