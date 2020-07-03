@@ -19,50 +19,34 @@ Sprints were designed to learn various fundamental concepts within Software Engi
 - Tech Stack: JS
 
 
-<br>
-<a href="https://github.com/bryanee23/sprint-collection/tree/masterchatterbox-client">chatterbox-client</a>
-<br>
--- Learning Objectives: design a client-side application on a local server while learning the concept of CORS
+## <a href="https://github.com/bryanee23/sprint-collection/tree/masterchatterbox-client">chatterbox-client</a>
+- Learning Objectives: design a client-side application on a local server while learning the concept of CORS
 - Tech Stack: JS, NodeJs, AJAX request, CORS, jQuery
 
-<br>
-<a href="https://github.com/bryanee23/sprint-collection/tree/master/data-structures">data-structures</a>
-<br>
+## <a href="https://github.com/bryanee23/sprint-collection/tree/master/data-structures">data-structures</a>
 - Learning Objectives: fundamentals of data structures (queue, stack, binary search tree, graph, hashtable, linked list, sets) and instantiation patterns (functional, prototypal, pseudoclassical)
 - Tech Stack: JS
 
-<br>
-<a href="https://github.com/bryanee23/sprint-collection/tree/master/express-review">express-review</a>
-<br>
+## <a href="https://github.com/bryanee23/sprint-collection/tree/master/express-review">express-review</a>
 - Learning Objectives: creating a front-end application using React on an Express server and promises
 - Tech Stack: JS, nodemon, webpack, React, axios, Express
 
-<br>
-<a href="https://github.com/bryanee23/sprint-collection/tree/master/fullstack-mongo">fullstack-mongo</a>
-<br>
+## <a href="https://github.com/bryanee23/sprint-collection/tree/master/fullstack-mongo">fullstack-mongo</a>
 - Learning Objectives: practice creating a full stack application using React, MongoDB, and Express
 - Tech Stack: JS, nodemon, webpack, React, MongoDB, Express
 
-<br>
-<a href="https://github.com/bryanee23/sprint-collection/tree/master/grocery-list">grocery-list</a>
-<br>
+## <a href="https://github.com/bryanee23/sprint-collection/tree/master/grocery-list">grocery-list</a>
 - Learning Objectives: creating a full-stack CRUD web application from scratch using React, SQL, and Express
 - Tech Stack: JS, React, mySQL, Express
 
-<br>
-<a href="https://github.com/bryanee23/sprint-collection/tree/master/my-sql-review">my-sql-review</a>
-<br>
+## <a href="https://github.com/bryanee23/sprint-collection/tree/master/my-sql-review">my-sql-review</a>
 - Learning Objectives: practice connecting an SQL database to a server
 - Tech Stack: JS, Express, mySQL
 
-<br>
-<a href="https://github.com/bryanee23/sprint-collection/tree/master/n-queens">n-queens</a>
-<br>
+## <a href="https://github.com/bryanee23/sprint-collection/tree/master/n-queens">n-queens</a>
 - Learning Objectives: an attempt to solve, a classic software engineering problem, n-queens
 - Tech Stack: JS, massive amount of brain power
 
-<br>
-<a href="https://github.com/bryanee23/sprint-collection/tree/master/subclass-dance-party">subclass-dance-party</a>
-<br>
+## <a href="https://github.com/bryanee23/sprint-collection/tree/master/subclass-dance-party">subclass-dance-party</a>
 - Learning Objectives: understanding the keyword "this" and its uses
 - Tech Stack: JS, jQuery,
