@@ -17,7 +17,7 @@ Sprints were designed to learn various fundamental concepts within Software Engi
 <br>
 <a href="https://github.com/bryanee23/sprint-collection/tree/master/beesbeesbees">beesbeesbees</a>
 <br>
-- Learning Objectives: pseudo classical instantiation
+_Learning Objectives: pseudo classical instantiation
 - Tech Stack: JS
 
 
