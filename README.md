@@ -1,6 +1,6 @@
 # Sprint Collection
 
-<h4 align="center">A collection of sprints completed while a student at Hack Reactor.</h4>
+- <h4 align="center">A collection of sprints completed while a student at Hack Reactor.</h4>
 
 Sprints were designed to learn various fundamental concepts within Software Engineering. Each sprint contained test scripts to guide students to completion; sprints were to be completed within two days, while pair programming. Additionally, these sprints were completed from Hack Reactor's private repo and transplanted to this repo.
 <br/>
