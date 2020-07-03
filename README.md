@@ -26,7 +26,7 @@ Sprints were designed to learn various fundamental concepts within Software Engi
 - Tech Stack: JS, NodeJs, AJAX request, CORS, jQuery
 
 <br>
-<a href=#>data-structures</a>
+<a href=''>data-structures</a>
 <br>
 - Learning Objectives: fundamentals of data structures (queue, stack, binary search tree, graph, hashtable, linked list, sets) and instantiation patterns (functional, prototypal, pseudoclassical)
 - Tech Stack: JS
