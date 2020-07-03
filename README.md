@@ -1,6 +1,6 @@
 # Sprint Collection
 
-- <h4 align="center">A collection of sprints completed while a student at Hack Reactor.</h4>
+<h4 align="center">A collection of sprints completed while a student at Hack Reactor.</h4>
 
 Sprints were designed to learn various fundamental concepts within Software Engineering. Each sprint contained test scripts to guide students to completion; sprints were to be completed within two days, while pair programming. Additionally, these sprints were completed from Hack Reactor's private repo and transplanted to this repo.
 <br/>
@@ -10,7 +10,7 @@ Sprints were designed to learn various fundamental concepts within Software Engi
 ## Sprints:
 
 
-<a href="https://github.com/bryanee23/sprint-collection/tree/master/a-synchronous-swim">a-synchronous-swim</a>
+- <a href="https://github.com/bryanee23/sprint-collection/tree/master/a-synchronous-swim">a-synchronous-swim</a>
 * Learning Objectives: Create server-side code to interact with the client through asynchronous behaviors via keyboard events by constructing both the client and server systems
 - Tech Stack: NodeJS, Live-Server
 
